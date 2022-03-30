@@ -29,7 +29,7 @@ function App() {
       <div className='referencias'>
       <h3> Referencias </h3>
       <p>
-        <a href='https://alunos.kenzie.com.br/courses/96/assignments/17174?module_item_id=19733'> Aula S1A16 Kenzie Academy</a>
+        <a href='https://alunos.kenzie.com.br/courses/96/assignments/17173?module_item_id=19732'> Aula S1A16 Kenzie Academy</a>
       </p>
       
       </div>
