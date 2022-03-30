@@ -1,0 +1,27 @@
+.div__Card{
+
+    margin: 1rem;
+    width: 570px;
+    height: 200px;
+    background-color: #51b3a5;
+    border-radius: 8px;
+    border: #ffffff solid 1px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+span{
+
+    width: 550px;
+    text-align: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+
