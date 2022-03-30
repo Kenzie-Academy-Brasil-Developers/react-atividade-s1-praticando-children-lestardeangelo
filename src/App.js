@@ -23,6 +23,18 @@ function App() {
         que podem ser outros componentes ou códigos como JSX, por exemplo:
         </p>
       </CenteredCard>
+
+      <CenteredCard>
+
+      <div className='referencias'>
+      <h3> Referencias </h3>
+      <p>
+        <a href='https://alunos.kenzie.com.br/courses/96/assignments/17174?module_item_id=19733'> Aula S1A16 Kenzie Academy</a>
+      </p>
+      
+      </div>
+
+      </CenteredCard>
     </div>
   );
 }
